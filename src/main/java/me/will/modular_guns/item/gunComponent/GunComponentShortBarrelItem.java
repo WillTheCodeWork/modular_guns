@@ -1,7 +1,6 @@
 package me.will.modular_guns.item.gunComponent;
 
 import me.will.modular_guns.client.renderer.item.GunComponentShortBarrelItemRenderer;
-import net.minecraft.world.item.Item;
 import software.bernie.geckolib.animatable.instance.AnimatableInstanceCache;
 import software.bernie.geckolib.animation.AnimatableManager.ControllerRegistrar;
 import software.bernie.geckolib.renderer.GeoItemRenderer;
@@ -16,7 +15,7 @@ public class GunComponentShortBarrelItem extends GunComponentItem {
             COMPONENT_TYPE.BARREL,
             new Stats(1, 0.7, 2, 3, null)
         );
-        
+
     }
 
     @Override

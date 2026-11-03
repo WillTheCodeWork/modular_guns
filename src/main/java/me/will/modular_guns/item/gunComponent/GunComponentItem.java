@@ -2,11 +2,8 @@ package me.will.modular_guns.item.gunComponent;
 
 import java.util.Map;
 import java.util.function.Consumer;
-import java.util.function.Supplier;
-
 import org.jetbrains.annotations.Nullable;
 
-import me.will.modular_guns.registry.ItemRegistry;
 import net.minecraft.client.renderer.BlockEntityWithoutLevelRenderer;
 import net.minecraft.world.item.Item;
 import software.bernie.geckolib.animatable.GeoItem;
