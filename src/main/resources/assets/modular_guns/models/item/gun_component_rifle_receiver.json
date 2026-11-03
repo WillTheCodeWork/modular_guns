@@ -1,0 +1,7 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "builtin/entity",
+  "textures": {
+    "particle": "modular_guns:item/gun_component_rifle_receiver"
+  }
+}

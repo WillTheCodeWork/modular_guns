@@ -1,0 +1,21 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "builtin/entity",
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        7.599999999999909,
+        22.300000000000182,
+        98.94000000000005
+      ],
+      "translation": [
+        0,
+        2,
+        2
+      ]
+    }
+  },
+  "textures": {
+    "particle": "modular_guns:item/short_barrel"
+  }
+}
